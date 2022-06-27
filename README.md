@@ -89,4 +89,4 @@ turtle.done()
 
 ## Output
 
-<p align="center"><img src="https://github.com/buddhirangana/draw-netflix-logo/blob/d49acac97f9b2b6fcb3b91e516083b07d9f4d3b7/demo.png"></p>
+<p align="center"><img src="https://github.com/buddhirangana/draw-google-logo/blob/8c5a44ecce4b0b9febe4b88870bbed2de5bd127c/Demo.PNG"></p>
